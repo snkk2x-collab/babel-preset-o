@@ -3,7 +3,7 @@
   "version": "0.4.3",
   "description": "tiny and flexible babel preset",
   "main": "index.js",
-  "repository": "git@github.com:huozhi/babel-preset-o.git",
+  "repository": "git+https://github.com/huozhi/babel-preset-o.git",
   "author": "huozhi",
   "license": "MIT",
   "dependencies": {
